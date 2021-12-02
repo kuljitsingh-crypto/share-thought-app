@@ -1,1 +1,1 @@
-# share-thought-app
+# Share Thought App
